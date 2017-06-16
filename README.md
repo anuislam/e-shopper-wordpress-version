@@ -1,6 +1,6 @@
 # e-shopper-wordpress-version
 
-A Free Basic WordPress Woocommerce Theme It's a free psd to html template
+A Free Basic WordPress Woocommerce Theme It's a free psd to html template and you can change, modify or other no license!
 <br />
 [SEE PSD TO HTML DEMO](http://demo.themeum.com/html/eshopper/)
 
