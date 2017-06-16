@@ -1,4 +1,4 @@
-# e-shopper-wordpress-version
+# E-SHOPPER WordPress Version
 
 A Free Basic WordPress Woocommerce Theme It's a free psd to html template and you can change, modify or other no license!
 <br />
